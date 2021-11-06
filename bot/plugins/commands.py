@@ -28,14 +28,17 @@ async def start(bot, update):
             await update.reply_cached_media(
                 file_id,
                 quote=True,
-                caption = caption,
+                caption = f"{file_name} \n @Arjunbots",
+                                 
                 parse_mode="html",
                 reply_markup=InlineKeyboardMarkup(
                     [
                         [
                             InlineKeyboardButton
                                 (
-                                    'Developers', url="https://t.me/CrazyBotsz"
+                        'DEVELOPER', url="https://t.me/Arjunbots"
+                        ' 😎 JOIN OUR CHANNEL FOR ALL MOVIES 😎', url="https://t.me/squid_game_full_eps"
+                        ' 😋 JOIN OUR GROUP FOR ALL NEW MOVIES  😋', url="https://t.me/movies_centre_garage_lux"
                                 )
                         ]
                     ]

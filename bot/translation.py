@@ -4,27 +4,32 @@
 
 class Translation(object):
     
-    START_TEXT = """<b>Hey {}!!</b>
-<i>Am Just A Advance Auto Filter Bot....😉
+    START_TEXT = """<b>Hey {}How are youu!!</b>
+<i>Hii I am LUX 2.0.This is my mom -@Its_Me_LuX_bot (LUX)
 
-Just Add Me To Your Group And Channel And Connect Them And See My Pevers 🔥🔥😝
+U can't add Me To Your Group And Channel,
 
-For More Details Click Help Button Below..
-@CrazyBotsz
+If you want to add me to your group,then contact my owner
+@Arjunbots
+And purchase me(only descent peoples allowed 😅)
+
+For more details about me.Contact..
+@Arjunbots  😎😈
 </i>"""    
     
     HELP_TEXT = """
 <b><i><u>How To Use Me!?</u></i></b>
 
 <i>
--> Add Me To Any Group And Make Me Admin
--> Add Me To Your Desired Channel
+-> Add Me To Any Group 😎
+-> Make Me Admin 😚
+-> Connect Me To Your Desired Channel  😊
 </i>
 
-<b>Bot Commands (Works Only In Groups) :</b>
+<b>Bot Commands (Works Only In Groups 😕) :</b>
 
     -> <code>/add chat_id</code>
-                OR                  - To Connect A Group With A Channel (Bot Should Be Admin With Full Previlages In Both Group And Channel)
+                OR                  - To Connect A Group With A Channel (I Should Be Admin With Full Previlages In Both Group And Channel)
      <code>/add @Username</code>
      
     -> <code>/del chat_id</code>
